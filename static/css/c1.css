@@ -1,0 +1,11 @@
+body{
+    background:linear-gradient(45deg,red,green,yellow,ghostwhite)
+}
+h1{
+    background-color:black;
+    color: aqua;
+    border:10px solid red;
+    border-radius: 55px; 
+
+
+}
